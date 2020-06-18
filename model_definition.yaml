@@ -1,0 +1,19 @@
+input_features:
+    -
+        name: date
+        type: date
+    -
+        name: 1st
+        type: numerical
+    -
+        name: 2nd
+        type: numerical
+
+
+output_features:
+    -
+        name: 1st
+        type: numerical
+    -
+        name: 2nd
+        type: numerical
